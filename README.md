@@ -1,2 +1,1 @@
-# Scrolling-shooter
-Fun scrolling shooter game made in two minutes 
+https://scrollingshooter.oneapp.dev/
